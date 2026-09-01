@@ -142,7 +142,7 @@ pip install -r requirements.txt
 Run the script:
 
 ```bash
-python snapshot_cleaner.py
+python src/snapshot_cleaner.py
 ```
 
 ## Example Output
